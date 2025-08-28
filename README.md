@@ -6,7 +6,8 @@ I nuotatori possono visualizzare i programmi di allenamento futuri, accedere all
 L'accesso è riservato ai soli membri della squadra, con un sistema di approvazione degli amministratori per garantire la sicurezza e la privacy.
 
 ## Account Data Deletion
-Account data can be deleted or downloaded upon request in your account settings at myswimpro.com/account, in the MySwimPro mobile app settings, or by emailing us at privacy@myswimpro.com from the email associated with that account.
+
+L'account puo' essere cancellato dal profilo utente
 
 ## Initial version
 
