@@ -8,9 +8,11 @@ L'accesso è riservato ai soli membri della squadra, con un sistema di approvazi
 ## Account Data Deletion
 Account data can be deleted or downloaded upon request in your account settings at myswimpro.com/account, in the MySwimPro mobile app settings, or by emailing us at privacy@myswimpro.com from the email associated with that account.
 
-‍## Initial version
+## Initial version
 
 Agosto 2025
 
 
-Support email: asindoni85@gmail.com
+## Support 
+
+email: asindoni85@gmail.com
